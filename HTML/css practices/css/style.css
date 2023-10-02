@@ -1,0 +1,13 @@
+/* .container{
+    max-width: 600px;
+    height: 600px;
+    border: 2px solid black;
+} */
+.dada{
+    width: 600px;
+    height: 600px;
+    border: 2px solid;
+    display: flex;
+    margin: 0 auto;
+   
+}

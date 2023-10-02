@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.body{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.container {
+  width: 90%;
+  height: 50vh;
+  position: relative;
+  margin: 0 auto;
+  background: #eae8e8;
+  
+}
+
+.info {
+  padding: 10px;
+}
+.info .input__section {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 20px 0;
+}
+
+input {
+  width: 40%;
+  padding: 10px;
+  border-radius: 8px;
+  outline: none;
+}
+.center {
+  display: flex;
+  justify-content: center;
+}
+.center h1 {
+  border-bottom: 2px dashed red;
+  display: inline-block;
+  padding-bottom: 10px;
+  text-align: center;
+  margin-top: 5%;
+}
+.para {
+  text-align: center;
+}

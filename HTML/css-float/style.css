@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Croissant+One&family=Fuggles&family=Nosifer&display=swap');
+
+
+.heading_one{
+    letter-spacing: 1px;
+    font-family: 'Croissant One', cursive;
+    color: red !important;
+}
+p{
+    /* font-family: 'Croissant One', cursive; */
+    font-style:bold;
+}
+
+#heading_four{
+    color: aqua;
+    font-size: 36px;
+}
+#one{
+    font-family: 'Croissant One', ;
+    color: rebeccapurple;
+}
+.varient{
+    font-variant: small-caps;
+    font-size: 36px;
+}

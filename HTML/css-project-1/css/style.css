@@ -1,0 +1,12 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Fuggles&family=Nosifer&display=swap');
+.heading1{
+    color: burlywood;
+    background: red;
+    font-size: 36px;
+    font-family:'Courier New', Courier, monospace;
+    padding:2px 20px 2px 20px; /* top right bottom left */
+    
+}
+
+
